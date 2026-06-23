@@ -4,6 +4,14 @@ ABSMUNDO is a dynamic, mobile-responsive directory platform designed to compile 
 
 The user interface features a sleek, premium dark-mode theme with crimson accents inspired by modern video platforms.
 
+## Preview
+
+### Home Dashboard Grid
+![Home Dashboard Grid](screenshots/dashboard.png)
+
+### Video Player Page & Related Feed
+![Video Player Page](screenshots/player.png)
+
 ## Core Features
 
 - **Categorized Feed:** Easily filter content between workout routines (Exercises) and diet/recipe guides (Nutrition) using fast category pills.
